@@ -5,4 +5,4 @@ I designed the bot to only play what I find peaceful to prevent users using it t
 
 ### Planned Features:
 Analyzing a song for constant spikes in BASS to prevent trolling with ChillBot,
-Adding a constant stream of chill music, Playlist or other methods for grabbing songs.
+<br/>Adding a constant stream of chill music, Playlist or other methods for grabbing songs.
